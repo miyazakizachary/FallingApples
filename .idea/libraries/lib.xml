@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ToolBox/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToolBox/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToolBox/lib/mockito-core-2.8.53.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

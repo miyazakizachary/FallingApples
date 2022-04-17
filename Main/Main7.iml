@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="FallingApples" level="project" />
+    <orderEntry type="library" name="FallingApples1" level="project" />
+    <orderEntry type="module" module-name="ToolBox6" />
+    <orderEntry type="module" module-name="Fruit8" />
+    <orderEntry type="module" module-name="Fruit" />
+    <orderEntry type="module" module-name="Fruit2" />
+    <orderEntry type="module" module-name="ToolBox14" />
+    <orderEntry type="module" module-name="ToolBox3" />
+    <orderEntry type="module" module-name="ToolBox10" />
+    <orderEntry type="module" module-name="Fruit11" />
+    <orderEntry type="module" module-name="Fruit15" />
+    <orderEntry type="module" module-name="Fruit10" />
+    <orderEntry type="module" module-name="Fruit5" />
+    <orderEntry type="module" module-name="Fruit3" />
+    <orderEntry type="module" module-name="ToolBox8" />
+    <orderEntry type="module" module-name="ToolBox2" />
+    <orderEntry type="module" module-name="Fruit9" />
+    <orderEntry type="module" module-name="Fruit12" />
+    <orderEntry type="module" module-name="ToolBox4" />
+    <orderEntry type="module" module-name="Fruit6" />
+    <orderEntry type="module" module-name="ToolBox15" />
+    <orderEntry type="module" module-name="Fruit13" />
+    <orderEntry type="module" module-name="ToolBox11" />
+    <orderEntry type="module" module-name="ToolBox12" />
+    <orderEntry type="module" module-name="ToolBox" />
+    <orderEntry type="module" module-name="Fruit14" />
+    <orderEntry type="module" module-name="ToolBox13" />
+    <orderEntry type="module" module-name="ToolBox7" />
+    <orderEntry type="module" module-name="ToolBox9" />
+    <orderEntry type="module" module-name="Fruit1" />
+    <orderEntry type="module" module-name="Fruit4" />
+    <orderEntry type="module" module-name="ToolBox1" />
+    <orderEntry type="module" module-name="Fruit7" />
+    <orderEntry type="module" module-name="ToolBox5" />
+  </component>
+</module>
